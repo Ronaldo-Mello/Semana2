@@ -1,0 +1,40 @@
+body {}
+#ODS5 {
+width: 50%;
+padding-right: 25%;
+padding-left: 25%;
+}
+.OQE {
+    font-size: 19px;
+    text-align: justify;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#confira {
+    padding-left: 80%;
+}
+.titulos {
+    color: black;
+padding-left: 15%;
+font-size: 25px;
+}
+#titulo {
+    text-align: center;
+    color: black
+}
+#tituloimg {
+    background-image: url(imagens/FundoTitulo.png);
+}
+.prop {
+    padding: 100px;
+}
+.dominant{
+    background-color: rgb(255, 220, 250);
+}
+.recessiv{
+    background-color: aliceblue
+}
+#odsvideo {
+    padding-right: 35%;
+    padding-left: 35%;
+}
